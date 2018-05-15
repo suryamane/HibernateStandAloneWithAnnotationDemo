@@ -18,6 +18,7 @@ public class HibernateStandAloneDemo {
 		HibernateStandAloneDemo application = new HibernateStandAloneDemo();
 
 		/*
+		sample text for got hub
 		 * Save few objects with hibernate
 		 */
 		int studentId1 = application.saveStudent("Sam", "Disilva", "Maths");
